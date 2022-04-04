@@ -1,3 +1,4 @@
-- Tools
+- Tools  
   - [README](/tools/README.md)  
-  - [docsify](/tools/docsify.md)
+  - [docsify](/tools/docsify.md)  
+  - [Git备忘清单](/tools/github-git-cheat-sheet.md)  
